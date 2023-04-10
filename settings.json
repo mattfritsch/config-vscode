@@ -1,0 +1,54 @@
+{
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": true,
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    "editor.renderWhitespace": "trailing",
+    "editor.linkedEditing": true,
+    "editor.occurrencesHighlight": false,
+    "editor.suggest.insertMode": "replace",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.5,
+    "editor.letterSpacing": 0.5,
+    "files.autoSave": "onFocusChange",
+    "files.associations": {
+        "*.html": "twig"
+    },
+    "emmet.includeLanguages": {
+        "twig": "html"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "explorer.autoReveal": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": true,
+    "workbench.tree.indent": 15,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.editor.enablePreview": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "gitlens.currentLine.enabled": false,
+    "gitlens.codeLens.enabled": true,
+    "gitlens.hovers.currentLine.over": "line",
+    "editor.bracketPairColorization.enabled": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[php]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[twig]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.preferences.importModuleSpecifierEnding": "js",
+    "typescript.preferences.importModuleSpecifierEnding": "js",
+    "workbench.colorTheme": "One Monokai"
+}
